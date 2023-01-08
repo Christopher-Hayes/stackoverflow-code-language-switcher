@@ -14,7 +14,7 @@ Adds a dropdown to code blocks in StackOverflow to switch the code language. Pow
 
 ## Installation
 
-1. Manually install the `userscript.js`.
+1. Install from GreasyFork: https://greasyfork.org/en/scripts/457875-stackoverflow-code-language-switcher or manually install the `userscript.js`.
 
 2. Once installed, open the script editor/settings, and under "values", set the `openai_key` to your OpenAI API key.
 
