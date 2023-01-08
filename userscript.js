@@ -11,6 +11,7 @@
 // @grant       GM_setClipboard
 // @version     1.0
 // @author      Chris Hayes
+// @license     GPL3
 // ==/UserScript==
 
 class LangConvert {
